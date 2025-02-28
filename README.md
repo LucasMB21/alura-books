@@ -4,6 +4,10 @@
 
 O *AluraBooks* é um site responsivo inspirado na plataforma da Alura para venda de livros. O objetivo é praticar e aprimorar habilidades em *HTML*, *CSS* e *JavaScript*.
 
+## 🔗 Link do projeto  
+Acesse o projeto aqui: [Alura Books](https://lucasmb21.github.io/alura-books/)  
+
+
 ## Tecnologias utilizadas
 
 - *HTML5*
