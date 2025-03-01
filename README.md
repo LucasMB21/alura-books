@@ -1,51 +1,54 @@
-# AluraBooks 📚
+# 📚 AluraBooks
 
-## Sobre o projeto
+## 📖 Sobre o projeto
 
-O *AluraBooks* é um site responsivo inspirado na plataforma da Alura para venda de livros. O objetivo é praticar e aprimorar habilidades em *HTML*, *CSS* e *JavaScript*.
+O **AluraBooks** é um site responsivo inspirado na plataforma da Alura para venda de livros. O projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em **HTML** e **CSS**.
 
-## 🔗 Link do projeto  
-Acesse o projeto aqui: [Alura Books](https://lucasmb21.github.io/alura-books/)  
+## 🚀 Demonstração
 
+🔗 **Acesse o projeto:** [Alura Books](https://lucasmb21.github.io/alura-books/)
 
-## Tecnologias utilizadas
+### 📸 Capturas de Tela
 
-- *HTML5*
-- *CSS3*
-- *JavaScript*
-- *Reset CSS*
+#### 💻 Versão Desktop
 
-## Funcionalidades
+<img src="https://github.com/user-attachments/assets/ccb20191-69b3-499d-af76-dc31422325d2" width="500px" />
 
-- Estrutura responsiva para diferentes tamanhos de tela.
-- Menu *hambúrguer* para dispositivos móveis.
-- Carrossel de livros mais vendidos.
-- Seção de recomendações personalizadas.
+<img src="https://github.com/user-attachments/assets/1f4c5985-0003-4a02-83e6-f18a43887356" width="500px" />
 
-## Capturas de Tela
+<img src="https://github.com/user-attachments/assets/4d994a42-a256-48e4-9c51-ae973145993c" width="500px" />
 
-<img src="https://github.com/user-attachments/assets/d6b0190c-588c-4cf5-b2e6-1aba971b87c5" width="500px" />
-<img src="https://github.com/user-attachments/assets/b216a8f0-99e0-476d-95dc-1513e27b521d" width="500px" />
+<img src="https://github.com/user-attachments/assets/f49555c8-e548-408a-a4d4-b245688688ff" width="500px" />
 
-<img src="https://github.com/user-attachments/assets/54d5f994-fa19-4b5b-8c30-240579b23393" width="500px" />
-<img src="https://github.com/user-attachments/assets/fec2639f-919d-483e-a0bd-f9ef1208b48e" width="500px" />
+#### 📱 Versão Mobile
 
+<img src="https://github.com/user-attachments/assets/00370a2c-3ae4-4de5-840b-3ae503367b2e" width="150px" />
 
+<img src="https://github.com/user-attachments/assets/7b4aea8c-771b-4e0b-a024-947a786cada6" width="150px" />
 
+<img src="https://github.com/user-attachments/assets/9615a18d-526f-4327-9fea-08a4a03fb7b9" width="150px" />
 
-### Versão Mobile
+---
 
-## Como executar o projeto
+## 🛠️ Tecnologias utilizadas
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/LucasMB21/alura-books.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## Autor
+- **HTML5** - Estruturação do conteúdo.
+- **CSS3** - Estilização e responsividade.
+- **Reset CSS** - Técnica para normalizar os estilos padrão dos navegadores.
 
-Desenvolvido por [LucasMB21](https://github.com/LucasMB21) com base nos cursos da [Alura](https://www.alura.com.br/).
+---
 
+## ✨ Funcionalidades
 
+✔️ **Design responsivo** adaptado para diferentes dispositivos.
+✔️ **Menu hambúrguer** para dispositivos móveis.
+✔️ **Carrossel dinâmico** exibindo os livros mais vendidos.
+✔️ **Seção de recomendações** personalizadas.
 
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **[LucasMB21](https://github.com/LucasMB21)** com base nos cursos da [Alura](https://www.alura.com.br/).
